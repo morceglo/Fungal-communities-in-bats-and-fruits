@@ -17,7 +17,7 @@ We characterize the culture-dependent and independent fungal communities in frui
 
 ## Analyses
 
-* [Statistical analysis](https://github.com/morceglo/Energetics-of-vocal-communication-in-Thyroptera/blob/main/Energetics%20of%20calling%20in%20Thyroptera.R)
+* [Statistical analysis](https://github.com/morceglo/Fungal-communities-in-bats-and-fruits/blob/main/Analysis_Fungal communities in bats and fruits.R)
 
 ## Status
 Project is: Under consideration in Journal xxx
