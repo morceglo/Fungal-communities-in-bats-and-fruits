@@ -9,14 +9,18 @@ Priscila Chaverri and Gloriana Chaverri
 We characterize the culture-dependent and independent fungal communities in fruits of Ficus colubrinae and in feces of Ectophylla alba to determine if passage through the digestive tract of the bats affected the total mycobiota.
 
 ## Data
-* [Data](https://github.com/morceglo/Energetics-of-vocal-communication-in-Thyroptera/blob/main/CostCalling_Thtr.XLSX)
+* [Data_1](https://github.com/morceglo/Fungal-communities-in-bats-and-fruits/blob/main/ASV_taxonomy.XLSX)
+* [Data_2](https://github.com/morceglo/Fungal-communities-in-bats-and-fruits/blob/main/NumASVs_table.XLSX)
+* [Data_3](https://github.com/morceglo/Fungal-communities-in-bats-and-fruits/blob/main/sample_table.XLSX)
+* [Data_4](https://github.com/morceglo/Fungal-communities-in-bats-and-fruits/blob/main/Function_table-unknown.XLSX)
+* [Data_5](https://github.com/morceglo/Fungal-communities-in-bats-and-fruits/blob/main/sample_table_tree.XLSX)
 
 ## Analyses
 
 * [Statistical analysis](https://github.com/morceglo/Energetics-of-vocal-communication-in-Thyroptera/blob/main/Energetics%20of%20calling%20in%20Thyroptera.R)
 
 ## Status
-Project is: Under consideration in Journal
+Project is: Under consideration in Journal xxx
 
 ## Contact
 Created by [Gloriana_Chaverri](batcr.com/)
