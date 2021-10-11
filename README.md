@@ -17,7 +17,7 @@ We characterize the culture-dependent and independent fungal communities in frui
 
 ## Analyses
 
-* [Statistical analysis](Analysis_Fungal communities in bats and fruits.R)
+* [Statistical analysis](https://github.com/morceglo/Fungal-communities-in-bats-and-fruits/blob/83f97e5ddd0cf6e4309a8f7f94794701f0622011/Analysis_Fungal%20communities%20in%20bats%20and%20fruits.R)
 
 ## Status
 Project is: Under consideration in Journal xxx
