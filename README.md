@@ -16,7 +16,7 @@ We characterize the culture-dependent and independent fungal communities in frui
 * [Data_5](https://github.com/morceglo/Fungal-communities-in-bats-and-fruits/blob/main/sample_table_tree.XLSX)
 * [Data_6](https://github.com/morceglo/Fungal-communities-in-bats-and-fruits/blob/b04955be883a1e70206a1347d5f26be7a0d1f329/Taxonomy,%20abundance%20and%20results%20of%20FUNGuild.xlsx)
 
-##Bioinformatics
+## Bioinformatics
 * [Workflow](https://github.com/morceglo/Fungal-communities-in-bats-and-fruits/blob/b04955be883a1e70206a1347d5f26be7a0d1f329/Commands%20and%20scripts%20for%20bioinformatic%20analyses.docx)
 
 ## Analyses
