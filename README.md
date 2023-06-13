@@ -23,7 +23,7 @@ We characterize the culture-dependent and independent fungal communities in frui
 * [Statistical analysis](https://github.com/morceglo/Fungal-communities-in-bats-and-fruits/blob/83f97e5ddd0cf6e4309a8f7f94794701f0622011/Analysis_Fungal%20communities%20in%20bats%20and%20fruits.R)
 
 ## Status
-Project is: In preparation for Microbiome
+Project is: Accepted in Animal Microbiome (https://doi.org/10.1186/s42523-022-00169-w)
 
 ## Contact
 Created by [Gloriana_Chaverri](batcr.com/)
